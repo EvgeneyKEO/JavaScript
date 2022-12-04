@@ -1,4 +1,4 @@
-# :large_orange_diamond: JavaScript_HW_1
+# [:large_orange_diamond: JavaScript_HW_1](https://github.com/EvgeneyKEO/JavaScript/blob/1c859df34ac68cc4def5c82a7782a7cdf57e6f11/HW_1.js)
 1. Создать переменную “item_1”
 2. Присвоить переменной item_1 цифру 5.
 ```
